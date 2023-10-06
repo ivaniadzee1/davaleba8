@@ -1,0 +1,43 @@
+@media (width >1440px){
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 105px;
+    }
+    body{
+        background: var(--Very-Light-blue, #ECF2FF);
+    }
+    .blue{
+        width: 368px;
+        height: 512px;
+        border-radius: 32px;
+    }
+   .container2{
+    background-color: white;
+    height: 512px;
+    border-radius: 32px;
+   }
+   .yr{
+    margin-top: 32px;
+        font-size: 24px;
+   }
+   .gk{
+    margin-top: 388px;
+    font-size: 18px;
+   }
+   .gr{
+    margin-top: 332px;
+    font-size: 32px;
+    margin-left: 145px;
+   }
+   .nmb{
+    margin-top: 104px;
+    margin-left: 84px;
+    width: 200px;
+    height: 200px;
+   }
+   .sy{
+    font-size: 24px;
+   }
+}
